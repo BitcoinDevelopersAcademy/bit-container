@@ -26,7 +26,7 @@ rt-cli getnewaddress
 rt-stop
 ```
 
-#### 4. Jump straight to chapter 3.2 of `Learning Bitcoin from the Commandline`
+#### 4. Jump straight to chapter 3.2 of [`Learning Bitcoin from the Commandline`](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/03_2_Knowing_Your_Bitcoin_Setup.md)
 Replace all instances of `bitcoin-cli` with `rt-cli`. For example:
 
 ```

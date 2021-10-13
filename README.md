@@ -13,7 +13,7 @@ Credit [Notmandatory](https://github.com/notmandatory/) and the [BDK team](https
 alias rt-start='docker run -d --rm -p 127.0.0.1:18443-18444:18443-18444/tcp -p 127.0.0.1:60401:60401/tcp --name electrs bitcoindevkit/electrs'
 alias rt-stop='docker kill electrs'
 alias rt-logs='docker container logs electrs'
-alias rt-cli='docker exec -it electrs /root/bitcoin-cli -regtest -rpcuser=admin -rpcpassword=passw $@'
+alias rt-cli='docker exec -it electrs /root/bitcoin-cli -regtest $@'
 ```
 
 #### 3. Use REGTEST aliases to start container, view logs, run cli command, stop container

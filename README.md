@@ -208,7 +208,4 @@ Examples:
 > curl --user myusername --data-binary '{"jsonrpc": "1.0", "id": "curltest", "method": "getmininginfo", "params": []}' -H 'content-type: text/plain;' http://127.0.0.1:8332/
 ```
 
-```
-Tipping: https://strike.me/diopfode
-```
 © Copyright 2021 Fodé Diop - MIT License

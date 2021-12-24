@@ -1,8 +1,8 @@
-### Learn Bitcoin the Easy Way
+### A containerized Bitcoin server and CLI 
 Based on [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 
 ### Setup a local REGTEST Electrs Server - Steps Below
-Using Docker is the easiest way to have a running instance of `bitcoind` in `regtest mode` on your local machine. 
+Using Docker is the easiest way to have a running instance of Bitcoin in `REGTEST mode` on your local machine. 
 Credit [Notmandatory](https://github.com/notmandatory/) and the [BDK team](https://github.com/bitcoindevkit)
 
 #### 1. Install Docker Desktop

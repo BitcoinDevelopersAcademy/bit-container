@@ -6,7 +6,7 @@ Using Docker is the easiest way to have a running instance of Bitcoin in `REGTES
 Credit [Notmandatory](https://github.com/notmandatory/) and the [BDK team](https://github.com/bitcoindevkit)
 
 #### 1. Install Docker Desktop
-[Docker Desktop](https://www.docker.com/get-started)
+[Docker Desktop](https://www.docker.com/get-started) and make sure that Docker is properly installed on your machine.
 
 #### 2. Create REGTEST aliases to start, stop, view logs and send cli commands to container
 ```
